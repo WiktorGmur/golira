@@ -2,7 +2,7 @@
 
 golira is a CLI tool created for Security Analysts who don't want to leave their terminal. <br>
 It takes the IP address you want to check as a first argument and then runs it through VirusTotal's API. <br>
-After that, golira returns the output in a pretty readable format which shows if the IP is harmless, malicious, suspicious or undetected.
+After that, golira returns the output in a pretty and readable format which shows if the IP is harmless, malicious, suspicious or undetected.
 
 ## Installation
 
