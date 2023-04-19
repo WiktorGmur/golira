@@ -1,6 +1,6 @@
 # golira🦍
 
-golira is a CLI tool created for Security Analysts who don't want to leave their terminal. <br>
+<strong>golira</strong> is a CLI tool created for Security Analysts who don't want to leave their terminal and need to perform an IP Reputation check. <br>
 It takes the IP address you want to check as a first argument and then runs it through VirusTotal's API. <br>
 After that, golira returns the output in a pretty and readable format which shows if the IP is harmless, malicious, suspicious or undetected.
 
